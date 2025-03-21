@@ -1,0 +1,26 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1742599193
+default_bus_layout.tres::AudioBusLayout::-1::1742509987::0::1::::<><>::
+default_env.tres::Environment::-1::1742509987::0::1::::<><>::
+float.res::Animation::6100787497010930007::1742520129::0::1::::<><>::
+icon.png::CompressedTexture2D::237389303392144487::1742509883::1742510068::1::::<><>::
+main.gd::GDScript::-1::1742517171::0::1::::<>Node<>::
+main.tscn::PackedScene::8805742979432222772::1742520204::0::1::::<><>::res://main.gd<>uid://bebn15s1hlfw6::::res://player.tscn<>uid://c4s82y5kn5pag::::res://mob.tscn<>uid://bib5mohtja0gl::::res://fonts/Montserrat-Medium.ttf<>res://ScoreLabel.gd
+Mob.gd::GDScript::-1::1742515558::0::1::::<>CharacterBody3D<>::
+mob.tscn::PackedScene::6847529817036401730::1742520205::0::1::::<><>::res://Mob.gd<>uid://cx18s2ngrefy8::::res://art/mob.glb
+music_player.tscn::PackedScene::5361414860610461839::1742520205::0::1::::<><>::uid://jhlr00tqsbe7::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::-1::1742518346::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::2670077792244879783::1742520204::0::1::::<><>::res://player.gd<>uid://v48saxgn1bj2::::res://art/player.glb
+ScoreLabel.gd::GDScript::-1::1742516762::0::1::::<>Label<>::
+::res://art/::1742510069
+body.material::StandardMaterial3D::-1::1742509884::0::1::::<><>::
+eye.material::StandardMaterial3D::-1::1742509884::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::646849835026751452::1742509884::1742510068::1::::<><>::
+mob.glb::PackedScene::6442895836226487957::1742509884::1742510069::1::::<><>::
+mob_body.material::StandardMaterial3D::-1::1742509884::0::1::::<><>::
+mob_eye.material::StandardMaterial3D::-1::1742509884::0::1::::<><>::
+player.glb::PackedScene::1535868512139504881::1742509884::1742510069::1::::<><>::
+pupil.material::StandardMaterial3D::-1::1742509884::0::1::::<><>::
+::res://fonts/::1742510068
+LICENSE.txt::TextFile::-1::1742509884::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::2951839496877134699::1742509884::1742510068::1::::<><>::
